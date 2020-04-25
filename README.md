@@ -1,2 +1,1 @@
-Hello world
-test2
+This project contains a sample web-site for restaurants
